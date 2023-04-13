@@ -7,7 +7,7 @@ function findLongestLength(arr) {
     }
     return maxLength;
   }
-  const arr = ["apple", "banana", "orange", "Muhammad Ashter Aown Ali"];
+  const arr = ["apple", "banana", "orange", "Talha"];
   const longestLength = findLongestLength(arr);
-  console.log(longestLength); // Output: 24 (length of "Muhammad Ashter Aown Ali")
+  console.log(longestLength); // Output: 24 (length of "Talha")
     
