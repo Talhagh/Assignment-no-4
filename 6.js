@@ -8,5 +8,5 @@ function getObjectValuesByKey(arr, key) {
   ];
   
   const values = getObjectValuesByKey(myArr, 'name');
-  console.log(values); // Output: ["Muhammad Ashter", "Kazim Ali", "Waseem Aown Ali"]
+  console.log(values); // Output: ["Talha", "Ali", "Abdul Hadi"]
     
